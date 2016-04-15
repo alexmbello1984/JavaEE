@@ -14,4 +14,10 @@ Este documento de igual manera irà un breve resumen de las distintas tematicas.
 ##Temas
 
 ###1. Programaciòn Orientada a Objetos
+Bloque que describe los elementos basicos de la Programaciòn Orientada a Objetos.
+
+####1.1 Paquetes
+Un paquete es un contenedor de clases y debe usarse para agurpar clases con 
+caracteristicas comunes esto en aras de cumplir el principio de Alta cohesion.
+
 
